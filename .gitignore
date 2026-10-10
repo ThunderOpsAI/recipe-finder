@@ -1,0 +1,12 @@
+# Added by git setup script
+node_modules/
+.DS_Store
+.env
+.env.local
+.env.*.local
+*.log
+dist/
+build/
+.next/
+venv/
+__pycache__/
